@@ -1,0 +1,10 @@
+Things needed:
+Timer class
+DateFormatter class
+
+Procedure:
+set-up DateFormatter
+get time from date
+print the time
+
+repeat every second
